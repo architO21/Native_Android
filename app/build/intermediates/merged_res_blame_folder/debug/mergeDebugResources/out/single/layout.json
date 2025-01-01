@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-mergeDebugResources-31:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-34:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-mergeDebugResources-31:\\layout\\listitem.xml",
+        "source": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-34:\\layout\\listitem.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-31:/layout/bottom_appbar.xml",
+        "source": "com.example.myapplication.app-main-34:/layout/bottom_appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-mergeDebugResources-31:\\layout\\bottom_appbar.xml",
+        "source": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-34:\\layout\\bottom_appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-mergeDebugResources-31:\\layout\\listitem2.xml",
+        "source": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-34:\\layout\\listitem2.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-mergeDebugResources-31:\\layout\\activity_top_appbar.xml",
+        "source": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-34:\\layout\\activity_top_appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-mergeDebugResources-31:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\archi\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-34:\\layout\\activity_search.xml"
+    }
+]
